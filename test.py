@@ -1,1 +1,1 @@
-number = "+254708439733"
+number = input("Number with Country code: ")
